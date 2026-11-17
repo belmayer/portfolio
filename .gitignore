@@ -1,0 +1,5 @@
+# Arquivos locais que não devem ser publicados
+.claude/
+.vscode/
+README.md
+.DS_Store
